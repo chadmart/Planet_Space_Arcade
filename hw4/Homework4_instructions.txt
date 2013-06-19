@@ -1,0 +1,31 @@
+﻿Press 'M' or Space Bar to start game
+
+'D' or Right Arrow to move Right
+'A' to Left Arrow to move Left
+
+'Space Bar' to shoot
+
+'P' to pause
+
+'ESC' to quit
+
+
+Cheat codes:
+	Press ‘;’ to enable cheat codes
+	Press ‘T’ – toggle God Mode
+	Press ‘1’ – spawn extra life 
+	Press ‘2’ – spawn 3 extra lives 
+	Press ‘3’ – spawn deathshroom 
+	Press ‘4’ – spawn double points
+	Press ‘5’ – spawn lose all points
+	Press ‘6’ – spawn victory POW
+	Press ‘7’ – spawn +10 points
+	Press ‘8’ – spawn +100 points
+	Press ‘9’ – spawn Freeze
+	Press ‘0’ – spawn level up
+	Press Minus – spawn level down
+	Press Equal  – spawn game over Skull
+	Press Backspace – spawn Temp God Mode
+	Press Backslash – spawn Temp Shield
+	Press BracketRight – spawn Triple Shot
+
